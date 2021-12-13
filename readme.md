@@ -1,5 +1,5 @@
 #Livro de Receitas: 
 
-Olá! bem vinso ao nosso livro de receitas
+Olá! bem vindo ao nosso livro de receitas
 
     - Bolo de Cenoura
